@@ -1,0 +1,2 @@
+﻿  db.cpp
+C:\Users\gibutakov\source\repos\db\db\db.cpp(1,10): error C1083: Не удается открыть файл включение: QtCore/QCoreApplication: No such file or directory,
